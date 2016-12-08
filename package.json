@@ -1,0 +1,23 @@
+{
+  "name": "DocBase",
+  "version": "1.0.0",
+  "description": "DocBase",
+  "main": "index.js",
+  "author": "2no <kazunori.ninomiya@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://docbase.io/users/sign_in",
+    "serviceName": "DocBase",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
